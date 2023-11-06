@@ -6,7 +6,7 @@ function App() {
 
   return (
     <div className="App">
-      <h2 style={{color:"blue"}}>I am learning React.js from Mr. Wajahat Ali.</h2>
+      <h2 style={{color:"blue"}}>I am learning React.js from Mr. Wajahat.</h2>
     </div>
   );
 }
